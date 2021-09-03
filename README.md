@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suvadeepghoshal, I am a software engineer at Mindtree LTD
 - 👀 I’m interested in software development, and solving algorithms in general
-- 🌱 I know AEM, AngularJS, Angular, Javascript, JQuery, HTML, Bootstrap, Java, Springboot, JPA, Python (Basics), Git, Subversion, Linux (Intermediate)
+- 🌱 I know AEM, AngularJS, Angular, Javascript, JQuery, HTML, Bootstrap, Java, Springboot, JPA, MySQL, PostgreSQL, Python (Basics), Git, Subversion, Linux (Intermediate)
 - 💞️ I’m learning React JS, React, and very much interested in exploring Quantam Computing
 - 📫 How to reach me: via my github, it's a good platform, or you can write me at ghoshalsuvadeep594@gmail.com
