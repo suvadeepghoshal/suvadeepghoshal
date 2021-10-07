@@ -1,4 +1,5 @@
 # Suvadeep Ghoshal
+address: *Golden Neer Apartment, 353 Indira Gandhi Road, Konnagar Hooghly, PIN: 7122235*
 email: *ghoshalsuvadeep594@gmail.com*
 github: [Suvadeep Ghoshal](https://github.com/suvadeepghoshal)
 phone: *7003652064*
@@ -41,8 +42,10 @@ phone: *7003652064*
 - Problem Solving ability
 
 ## Other Details
-- *Languages:* Englilsh, Bengali, Hindi (Can speak, write and read)
+- *Languages:* English, Bengali, Hindi (Can speak, write and read)
 - *Date of Birth:* 11th December 1997
 - *Hobbies:* Drumming, Teaching, Travelling (especially mountains and jungles)
+
+
 
 *I hearby state, everything mentioned here is true as far my best knowledge and I will be eble to present any documents required*
