@@ -16,6 +16,7 @@
   - GitHub: [suvadeepghoshal](https://github.com/suvadeepghoshal)
   - LinkedIn: [Suvadeep Ghoshal](https://www.linkedin.com/in/suvadeep-ghoshal-778426197/)
   - Instagram: @suvadeepghoshal
+  - Digital ID: [Suvadeep Ghoshal](https://suvadeepghoshal-id.vercel.app)
   - YouTube: On the way 😉
 - 🗺️ Hobbies - I am a drummer, I love to play drums. Make my own music or play covers. I have also worked in bands in the past, and continue to do so till date. Secondly, I am a mountain person, I love mountain & jungles - overall mother 🌏 motivates and interests me a lot, so I 😍 to travel.
 
