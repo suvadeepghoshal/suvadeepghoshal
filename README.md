@@ -12,9 +12,10 @@
 ## 🎓 Teaching & Learning
 I'm a **CS mentor**, guiding budding enthusiasts through programming and math. I’m always eager to learn, adapt, and yes, I've mastered the art of *GOOGLING*.
 
-## 🎵 Beyond the Screen
-- I'm a drummer! Whether it's creating original beats or playing covers, my passion for rhythm is relentless. I’ve jammed with bands in the past and continue to drum to my own beat.
-- The call of the wild is irresistible. Mountains, jungles, the embrace of Mother 🌏 – I'm always ready for an adventure.
+## 🌍 Beyond the Screen
+- 🏍️ I'm an avid motorcycle rider, always ready to hit the road and feel the wind against my face.
+- ⛰️ The allure of mountains and the mystery of forests beckon me; there's no place I'd rather be than amidst the embrace of Mother Nature.
+- 🎥 Cinematic travel videos are my canvas, where I capture the beauty of our world, turning fleeting moments into timeless memories.
 
 ## 💌 Connect with Me
 - **Email**: ghoshalsuvadeep594@gmail.com
