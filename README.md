@@ -1,6 +1,6 @@
 # 😃 Who am I?
 
-👋 Hi, I’m @suvadeepghoshal, an enthusiastic software developer from India. With a passion for developing meaningful software, whether it's open-source magic or enterprise solutions, I pour love into every line of code.
+👋 Hi, I’m @suvadeepghoshal, an enthusiastic software developer from the UK 🇬🇧 (🇮🇳'n by core). With a passion for developing meaningful software, whether it's open-source magic or enterprise solutions, I pour love into every line of code.
 
 ## 🛠️ Tech Stack
 - **Languages & Frameworks**: Specializing in JS & TypeScript. Passionate about frameworks like Next.js and an ever-evolving journey with front-end & back-end technologies.
@@ -10,7 +10,7 @@
 - **Database**: Versatile with relational databases like MySQL and PostgreSQL, with a touch of MongoDB.
 
 ## 🎓 Teaching & Learning
-I'm a **CS mentor**, guiding budding enthusiasts through programming and math. I’m always eager to learn, adapt, and yes, I've mastered the art of *GOOGLING*.
+I'm a **CS mentor**, guiding budding enthusiasts through programming and math. I’m always eager to learn and adapt, and yes, I've mastered the art of *GOOGLING*.
 
 ## 🌍 Beyond the Screen
 - 🏍️ I'm an avid motorcycle rider, always ready to hit the road and feel the wind against my face.
@@ -20,9 +20,9 @@ I'm a **CS mentor**, guiding budding enthusiasts through programming and math. I
 ## 💌 Connect with Me
 - **Email**: ghoshalsuvadeep594@gmail.com
 - **LinkedIn**: [Suvadeep Ghoshal](https://www.linkedin.com/in/suvadeep-ghoshal-778426197/)
-- **Digital ID**: [Suvadeep Ghoshal](https://suvadeepghoshal-id.vercel.app)
 - **Twitter**: [@ghoshalsuvadeep](https://twitter.com/ghoshalsuvadeep)
-- **Reddit**: [u/suvadeepghoshal](https://www.reddit.com/user/suvadeepghoshal)
-- **YouTube**: On the horizon... 🎥
+- **YouTube**: [Suvadeep Ghoshal](https://www.youtube.com/@suvadeepghoshal)
+- **Instagram**: [suvadeepghoshal](https://www.instagram.com/suvadeepghoshal)
+- **Twitch**: [ghoshalsuvadeep](https://www.twitch.tv/ghoshalsuvadeep)
 
 ✌️ Peace & Keep Coding!
