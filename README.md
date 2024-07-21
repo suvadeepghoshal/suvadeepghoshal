@@ -20,7 +20,6 @@ I'm a **CS mentor**, guiding budding enthusiasts through programming and math. I
 ## 💌 Connect with Me
 - **Email**: ghoshalsuvadeep594@gmail.com
 - **LinkedIn**: [Suvadeep Ghoshal](https://www.linkedin.com/in/suvadeep-ghoshal-778426197/)
-- **Twitter**: [@ghoshalsuvadeep](https://twitter.com/ghoshalsuvadeep)
 - **YouTube**: [Suvadeep Ghoshal](https://www.youtube.com/@suvadeepghoshal)
 - **Instagram**: [suvadeepghoshal](https://www.instagram.com/suvadeepghoshal)
 - **Twitch**: [ghoshalsuvadeep](https://www.twitch.tv/ghoshalsuvadeep)
